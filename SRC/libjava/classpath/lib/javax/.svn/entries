@@ -1,0 +1,79 @@
+10
+
+dir
+216447
+svn://gcc.gnu.org/svn/gcc/trunk/libjava/classpath/lib/javax
+svn://gcc.gnu.org/svn/gcc
+
+
+
+2012-12-19T17:03:15.048303Z
+194618
+doko
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+138bc75d-0d04-0410-961f-82ee72b054a4
+
+sound
+dir
+
+print
+dir
+
+activity
+dir
+
+sql
+dir
+
+xml
+dir
+
+tools
+dir
+
+activation
+dir
+
+security
+dir
+
+naming
+dir
+
+imageio
+dir
+
+management
+dir
+
+crypto
+dir
+
+transaction
+dir
+
+net
+dir
+
+accessibility
+dir
+
+rmi
+dir
+
+swing
+dir
+

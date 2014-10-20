@@ -1,0 +1,43 @@
+10
+
+dir
+216447
+svn://gcc.gnu.org/svn/gcc/trunk/libstdc++-v3/testsuite/27_io/basic_istringstream
+svn://gcc.gnu.org/svn/gcc
+
+
+
+2014-09-22T13:34:09.125259Z
+215463
+redi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+138bc75d-0d04-0410-961f-82ee72b054a4
+
+cons
+dir
+
+rdbuf
+dir
+
+requirements
+dir
+
+assign
+dir
+
+str
+dir
+

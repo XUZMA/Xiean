@@ -1,0 +1,61 @@
+10
+
+dir
+216447
+svn://gcc.gnu.org/svn/gcc/trunk/libitm/config
+svn://gcc.gnu.org/svn/gcc
+
+
+
+2014-07-25T02:58:06.125433Z
+213035
+rth
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+138bc75d-0d04-0410-961f-82ee72b054a4
+
+generic
+dir
+
+s390
+dir
+
+arm
+dir
+
+linux
+dir
+
+powerpc
+dir
+
+posix
+dir
+
+alpha
+dir
+
+x86
+dir
+
+aarch64
+dir
+
+sparc
+dir
+
+sh
+dir
+

@@ -1,0 +1,109 @@
+10
+
+dir
+216447
+svn://gcc.gnu.org/svn/gcc/trunk/gcc/testsuite/gcc.target
+svn://gcc.gnu.org/svn/gcc
+
+
+
+2014-10-18T12:07:35.185399Z
+216426
+olegendo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+138bc75d-0d04-0410-961f-82ee72b054a4
+
+ia64
+dir
+
+arc
+dir
+
+spu
+dir
+
+mips
+dir
+
+sparc
+dir
+
+sh
+dir
+
+epiphany
+dir
+
+bfin
+dir
+
+powerpc
+dir
+
+arm
+dir
+
+alpha
+dir
+
+m68k
+dir
+
+microblaze
+dir
+
+aarch64
+dir
+
+avr
+dir
+
+rx
+dir
+
+i386
+dir
+
+nds32
+dir
+
+nios2
+dir
+
+xstormy16
+dir
+
+tic6x
+dir
+
+frv
+dir
+
+vax
+dir
+
+s390
+dir
+
+x86_64
+dir
+
+cris
+dir
+
+h8300
+dir
+

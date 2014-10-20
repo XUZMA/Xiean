@@ -1,0 +1,95 @@
+10
+
+dir
+216447
+svn://gcc.gnu.org/svn/gcc/trunk/libgo/go/encoding
+svn://gcc.gnu.org/svn/gcc
+
+
+
+2014-07-19T08:53:52.120784Z
+212837
+ian
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+138bc75d-0d04-0410-961f-82ee72b054a4
+
+encoding.go
+file
+
+
+
+
+2014-10-20T01:51:59.041696Z
+06e40a6f636d882b7f48916d2a838973
+2013-11-06T19:49:01.634550Z
+204466
+ian
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1920
+
+csv
+dir
+
+base32
+dir
+
+xml
+dir
+
+pem
+dir
+
+asn1
+dir
+
+base64
+dir
+
+binary
+dir
+
+hex
+dir
+
+ascii85
+dir
+
+gob
+dir
+
+json
+dir
+

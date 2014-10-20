@@ -1,0 +1,52 @@
+10
+
+dir
+216447
+svn://gcc.gnu.org/svn/gcc/trunk/libstdc++-v3/testsuite/27_io/basic_ios
+svn://gcc.gnu.org/svn/gcc
+
+
+
+2014-09-25T10:50:31.459557Z
+215593
+redi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+138bc75d-0d04-0410-961f-82ee72b054a4
+
+copyfmt
+dir
+
+exceptions
+dir
+
+imbue
+dir
+
+cons
+dir
+
+locales
+dir
+
+requirements
+dir
+
+conv
+dir
+
+clear
+dir
+

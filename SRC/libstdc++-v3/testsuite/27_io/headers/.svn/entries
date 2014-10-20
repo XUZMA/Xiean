@@ -1,0 +1,58 @@
+10
+
+dir
+216447
+svn://gcc.gnu.org/svn/gcc/trunk/libstdc++-v3/testsuite/27_io/headers
+svn://gcc.gnu.org/svn/gcc
+
+
+
+2014-10-17T12:21:29.436607Z
+216398
+redi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+138bc75d-0d04-0410-961f-82ee72b054a4
+
+iostream
+dir
+
+istream
+dir
+
+cstdio
+dir
+
+streambuf
+dir
+
+ios
+dir
+
+ostream
+dir
+
+iomanip
+dir
+
+sstream
+dir
+
+fstream
+dir
+
+cinttypes
+dir
+

@@ -1,0 +1,64 @@
+10
+
+dir
+216447
+svn://gcc.gnu.org/svn/gcc/trunk/libjava/classpath/gnu/java
+svn://gcc.gnu.org/svn/gcc
+
+
+
+2014-01-02T21:25:41.640331Z
+206286
+burnus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+138bc75d-0d04-0410-961f-82ee72b054a4
+
+awt
+dir
+
+util
+dir
+
+locale
+dir
+
+lang
+dir
+
+text
+dir
+
+nio
+dir
+
+net
+dir
+
+io
+dir
+
+rmi
+dir
+
+security
+dir
+
+beans
+dir
+
+math
+dir
+

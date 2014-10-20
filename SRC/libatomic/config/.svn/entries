@@ -1,0 +1,49 @@
+10
+
+dir
+216447
+svn://gcc.gnu.org/svn/gcc/trunk/libatomic/config
+svn://gcc.gnu.org/svn/gcc
+
+
+
+2014-06-17T20:43:18.049884Z
+211747
+ktietz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+138bc75d-0d04-0410-961f-82ee72b054a4
+
+x86
+dir
+
+arm
+dir
+
+linux
+dir
+
+powerpc
+dir
+
+mingw
+dir
+
+posix
+dir
+
+ia64
+dir
+

@@ -1,0 +1,85 @@
+10
+
+dir
+216447
+svn://gcc.gnu.org/svn/gcc/trunk/libstdc++-v3/testsuite/27_io/basic_stringbuf
+svn://gcc.gnu.org/svn/gcc
+
+
+
+2014-01-02T22:30:10.856351Z
+206301
+rsandifo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+138bc75d-0d04-0410-961f-82ee72b054a4
+
+setbuf
+dir
+
+sbumpc
+dir
+
+sputc
+dir
+
+imbue
+dir
+
+cons
+dir
+
+overflow
+dir
+
+snextc
+dir
+
+sgetc
+dir
+
+sungetc
+dir
+
+str
+dir
+
+seekpos
+dir
+
+sputn
+dir
+
+sync
+dir
+
+pbackfail
+dir
+
+sputbackc
+dir
+
+sgetn
+dir
+
+seekoff
+dir
+
+in_avail
+dir
+
+requirements
+dir
+

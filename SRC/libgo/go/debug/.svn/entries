@@ -1,0 +1,46 @@
+10
+
+dir
+216447
+svn://gcc.gnu.org/svn/gcc/trunk/libgo/go/debug
+svn://gcc.gnu.org/svn/gcc
+
+
+
+2014-07-19T08:53:52.120784Z
+212837
+ian
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+138bc75d-0d04-0410-961f-82ee72b054a4
+
+gosym
+dir
+
+plan9obj
+dir
+
+dwarf
+dir
+
+pe
+dir
+
+elf
+dir
+
+macho
+dir
+

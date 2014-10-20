@@ -1,0 +1,70 @@
+10
+
+dir
+216447
+svn://gcc.gnu.org/svn/gcc/trunk/libjava/classpath/tools/resource/gnu/classpath/tools
+svn://gcc.gnu.org/svn/gcc
+
+
+
+2012-12-19T17:03:15.048303Z
+194618
+doko
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+138bc75d-0d04-0410-961f-82ee72b054a4
+
+gjdoc
+dir
+
+keytool
+dir
+
+orbd
+dir
+
+appletviewer
+dir
+
+common
+dir
+
+rmic
+dir
+
+rmid
+dir
+
+jar
+dir
+
+serialver
+dir
+
+rmiregistry
+dir
+
+native2ascii
+dir
+
+getopt
+dir
+
+jarsigner
+dir
+
+tnameserv
+dir
+

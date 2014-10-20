@@ -1,0 +1,82 @@
+10
+
+dir
+216447
+svn://gcc.gnu.org/svn/gcc/trunk/libstdc++-v3/testsuite/23_containers
+svn://gcc.gnu.org/svn/gcc
+
+
+
+2014-10-16T08:09:09.596565Z
+216299
+paolo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+138bc75d-0d04-0410-961f-82ee72b054a4
+
+bitset
+dir
+
+set
+dir
+
+forward_list
+dir
+
+unordered_multimap
+dir
+
+unordered_set
+dir
+
+vector
+dir
+
+deque
+dir
+
+stack
+dir
+
+multiset
+dir
+
+headers
+dir
+
+list
+dir
+
+map
+dir
+
+unordered_multiset
+dir
+
+array
+dir
+
+queue
+dir
+
+unordered_map
+dir
+
+priority_queue
+dir
+
+multimap
+dir
+

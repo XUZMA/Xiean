@@ -1,0 +1,46 @@
+10
+
+dir
+216447
+svn://gcc.gnu.org/svn/gcc/trunk/libstdc++-v3/config/locale
+svn://gcc.gnu.org/svn/gcc
+
+
+
+2014-05-21T15:09:50.216583Z
+210716
+redi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+138bc75d-0d04-0410-961f-82ee72b054a4
+
+darwin
+dir
+
+dragonfly
+dir
+
+gnu
+dir
+
+ieee_1003.1-2001
+dir
+
+generic
+dir
+
+newlib
+dir
+

@@ -1,0 +1,40 @@
+10
+
+dir
+216447
+svn://gcc.gnu.org/svn/gcc/trunk/libgomp/config
+svn://gcc.gnu.org/svn/gcc
+
+
+
+2014-04-02T20:27:29.278903Z
+209035
+rth
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+138bc75d-0d04-0410-961f-82ee72b054a4
+
+linux
+dir
+
+posix
+dir
+
+mingw32
+dir
+
+bsd
+dir
+

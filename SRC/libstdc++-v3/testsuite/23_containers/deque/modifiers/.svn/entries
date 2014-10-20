@@ -1,0 +1,80 @@
+10
+
+dir
+216447
+svn://gcc.gnu.org/svn/gcc/trunk/libstdc++-v3/testsuite/23_containers/deque/modifiers
+svn://gcc.gnu.org/svn/gcc
+
+
+
+2014-10-16T08:09:09.596565Z
+216299
+paolo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+138bc75d-0d04-0410-961f-82ee72b054a4
+
+moveable.cc
+file
+
+
+
+
+2014-10-18T08:26:46.091929Z
+84b45f368aaff793b6e93e03365d114c
+2014-10-16T08:09:09.596565Z
+216299
+paolo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3661
+
+erase
+dir
+
+push_back
+dir
+
+insert
+dir
+
+emplace
+dir
+
+push_front
+dir
+
+swap
+dir
+

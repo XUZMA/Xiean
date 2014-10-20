@@ -1,0 +1,101 @@
+10
+
+dir
+216447
+svn://gcc.gnu.org/svn/gcc/trunk/libstdc++-v3/testsuite/24_iterators
+svn://gcc.gnu.org/svn/gcc
+
+
+
+2014-10-15T19:56:52.055993Z
+216283
+paolo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+138bc75d-0d04-0410-961f-82ee72b054a4
+
+operations
+dir
+
+ostream_iterator
+dir
+
+reverse_iterator
+dir
+
+front_insert_iterator
+dir
+
+istreambuf_iterator
+dir
+
+random_access_iterator
+dir
+
+headers
+dir
+
+back_insert_iterator
+dir
+
+insert_iterator
+dir
+
+istream_iterator
+dir
+
+move_iterator
+dir
+
+ostreambuf_iterator
+dir
+
+normal_iterator
+dir
+
+range_access.cc
+file
+
+
+
+
+2014-10-18T08:22:16.571935Z
+8b30d7050783ec3d5322319126910ee4
+2014-10-15T19:56:52.055993Z
+216283
+paolo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+962
+

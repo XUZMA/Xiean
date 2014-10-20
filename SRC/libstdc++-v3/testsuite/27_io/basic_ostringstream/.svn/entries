@@ -1,0 +1,77 @@
+10
+
+dir
+216447
+svn://gcc.gnu.org/svn/gcc/trunk/libstdc++-v3/testsuite/27_io/basic_ostringstream
+svn://gcc.gnu.org/svn/gcc
+
+
+
+2014-09-22T13:34:09.125259Z
+215463
+redi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+138bc75d-0d04-0410-961f-82ee72b054a4
+
+cons
+dir
+
+rdbuf
+dir
+
+requirements
+dir
+
+assign
+dir
+
+str
+dir
+
+pthread3.cc
+file
+
+
+
+
+2014-10-18T08:27:52.979928Z
+e4ac5c630feb84cd7dba408f2320ce1f
+2014-05-23T10:19:20.391916Z
+210849
+redi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1772
+

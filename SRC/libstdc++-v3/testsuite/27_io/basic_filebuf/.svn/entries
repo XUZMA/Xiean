@@ -1,0 +1,97 @@
+10
+
+dir
+216447
+svn://gcc.gnu.org/svn/gcc/trunk/libstdc++-v3/testsuite/27_io/basic_filebuf
+svn://gcc.gnu.org/svn/gcc
+
+
+
+2014-10-16T08:09:09.596565Z
+216299
+paolo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+138bc75d-0d04-0410-961f-82ee72b054a4
+
+sungetc
+dir
+
+showmanyc
+dir
+
+sputn
+dir
+
+seekpos
+dir
+
+sync
+dir
+
+pbackfail
+dir
+
+sputbackc
+dir
+
+sgetn
+dir
+
+seekoff
+dir
+
+in_avail
+dir
+
+requirements
+dir
+
+setbuf
+dir
+
+sbumpc
+dir
+
+is_open
+dir
+
+sputc
+dir
+
+imbue
+dir
+
+open
+dir
+
+cons
+dir
+
+overflow
+dir
+
+snextc
+dir
+
+underflow
+dir
+
+sgetc
+dir
+
+close
+dir
+
